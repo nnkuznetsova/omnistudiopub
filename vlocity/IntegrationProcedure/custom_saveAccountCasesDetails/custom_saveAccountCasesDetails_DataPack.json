@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Custom Save Account And Cases",
+    "OmniProcessElement": "custom_saveAccountCasesDetails_Element_DRSaveAccountCasesDetails.json",
+    "OmniProcessKey": "custom_saveAccountCasesDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "custom_saveAccountCasesDetails_PropertySetConfig.json",
+    "SubType": "saveAccountCasesDetails",
+    "Type": "custom",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/custom/saveAccountCasesDetails/Procedure",
+    "WebComponentKey": "2836b92d-21a2-1f3e-136e-f8210e827157"
+}

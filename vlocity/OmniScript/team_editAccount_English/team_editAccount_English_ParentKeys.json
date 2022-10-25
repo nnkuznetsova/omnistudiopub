@@ -1,0 +1,4 @@
+[
+    "IntegrationProcedure/team_getAccountDetails",
+    "IntegrationProcedure/team_saveAccountDetails"
+]

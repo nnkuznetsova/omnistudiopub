@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Get Ski Rental",
+    "OmniProcessElement": [
+        "team_getSkiRental_Element_SetValues.json",
+        "team_getSkiRental_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "team_getSkiRental",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_getSkiRental_PropertySetConfig.json",
+    "SubType": "getSkiRental",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/getSkiRental/Procedure",
+    "WebComponentKey": "229901f1-839f-6d54-fef1-a3ec00dc2869"
+}

@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "IPGetAllAccounts",
+    "OmniProcessElement": [
+        "custom_getAllAccounts_Element_DRGetAllAccounts.json",
+        "custom_getAllAccounts_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "custom_getAllAccounts",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "custom_getAllAccounts_PropertySetConfig.json",
+    "SubType": "getAllAccounts",
+    "Type": "custom",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/custom/getAllAccounts/Procedure",
+    "WebComponentKey": "f0fe43c9-2e6b-d2b9-02a7-b16871765e4d"
+}

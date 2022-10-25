@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "team_GetBookingDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Get Booking Details",
+    "OmniProcessElement": [
+        "team_GetBookingDetails_Element_DRGetSkiRentalDetails.json",
+        "team_GetBookingDetails_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "team_GetBookingDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_GetBookingDetails_PropertySetConfig.json",
+    "SubType": "GetBookingDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/GetBookingDetails/Procedure",
+    "WebComponentKey": "d1ec7138-5f96-00cb-1312-67724235416e"
+}

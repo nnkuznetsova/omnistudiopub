@@ -1,0 +1,5 @@
+[
+    "DataRaptor/teamChangePriContactTA",
+    "IntegrationProcedure/team_getPrimaryContactDetails",
+    "IntegrationProcedure/team_getWeatherForecast"
+]

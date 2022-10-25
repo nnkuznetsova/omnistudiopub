@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "tech_getOrionContactDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Tech Get Orion Contact Details",
+    "OmniProcessElement": [
+        "tech_getOrionContactDetails_Element_DRGetOrionContactDetails.json",
+        "tech_getOrionContactDetails_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "tech_getOrionContactDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "tech_getOrionContactDetails_PropertySetConfig.json",
+    "SubType": "getOrionContactDetails",
+    "Type": "tech",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/tech/getOrionContactDetails/Procedure",
+    "WebComponentKey": "760061a6-0544-0d8b-2130-581889634b44"
+}

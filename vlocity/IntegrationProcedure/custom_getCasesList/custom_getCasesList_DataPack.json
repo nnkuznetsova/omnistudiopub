@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "custom_getCasesList_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Custom Get Cases List",
+    "OmniProcessElement": [
+        "custom_getCasesList_Element_DRGetCaseDetails.json",
+        "custom_getCasesList_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "custom_getCasesList",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "custom_getCasesList_PropertySetConfig.json",
+    "SubType": "getCasesList",
+    "Type": "custom",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/custom/getCasesList/Procedure",
+    "WebComponentKey": "195ffb9a-0e43-edd7-950d-6c7965159311"
+}

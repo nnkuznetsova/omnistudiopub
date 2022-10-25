@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "team_saveContactDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Save Contact Details",
+    "OmniProcessElement": "team_saveContactDetails_Element_DRSaveContactDetails.json",
+    "OmniProcessKey": "team_saveContactDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_saveContactDetails_PropertySetConfig.json",
+    "SubType": "saveContactDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/saveContactDetails/Procedure",
+    "WebComponentKey": "9d02e55b-b73d-2729-0d3c-00508584d168"
+}

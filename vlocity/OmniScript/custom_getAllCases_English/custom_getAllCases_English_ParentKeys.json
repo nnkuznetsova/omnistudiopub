@@ -1,0 +1,5 @@
+[
+    "IntegrationProcedure/custom_getCasesList",
+    "IntegrationProcedure/custom_saveAccountCasesDetails",
+    "IntegrationProcedure/team_getAccountDetails"
+]

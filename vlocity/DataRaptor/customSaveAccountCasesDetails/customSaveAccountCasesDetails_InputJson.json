@@ -1,0 +1,25 @@
+{
+    "Id": "0015c000020qeZxAAI",
+    "StepAccount": {
+        "Industry": "Other",
+        "Name": "Acme",
+        "Phone": "(212) 155-5555",
+        "Website": "www.acme.com"
+    },
+    "updatedCases": [
+        {
+            "CaseId": "5005c000018DbOHAA0",
+            "CaseNumber": "00001028",
+            "CasePriority": "Medium",
+            "CaseStatus": "New",
+            "CaseSubject": "Billing status edited"
+        },
+        {
+            "CaseId": "5005c000018DbOJAA0",
+            "CaseNumber": "00001029",
+            "CasePriority": "Medium",
+            "CaseStatus": "New",
+            "CaseSubject": "Shipment on hold update request"
+        }
+    ]
+}

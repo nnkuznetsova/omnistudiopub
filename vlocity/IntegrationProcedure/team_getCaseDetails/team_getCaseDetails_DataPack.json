@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "team_getCaseDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Get Case Details",
+    "OmniProcessElement": [
+        "team_getCaseDetails_Element_DRGetCaseDetails.json",
+        "team_getCaseDetails_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "team_getCaseDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_getCaseDetails_PropertySetConfig.json",
+    "SubType": "getCaseDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/getCaseDetails/Procedure",
+    "WebComponentKey": "6ad439cd-55f7-7161-6ee1-786c5d599e5b"
+}

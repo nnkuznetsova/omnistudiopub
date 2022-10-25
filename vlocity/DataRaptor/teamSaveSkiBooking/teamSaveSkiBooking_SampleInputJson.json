@@ -1,0 +1,24 @@
+{
+    "AccountId": "0015c000021MoErAAK",
+    "Email": "nnkuzne@gmail.com.hilb23@gmail.com",
+    "Name": "Natalia Kuznetsova",
+    "output": [
+        {
+            "aggregationResults": {
+                "TotalCost": 150
+            },
+            "calculationResults": [
+                {
+                    "BootSize": "10",
+                    "Days": 5,
+                    "Height": "5'8\" < H < 6'0\"",
+                    "Helmet": "true",
+                    "ID": "input",
+                    "RentalCost": 150,
+                    "SkierType": "Intermediate",
+                    "StartDate": "2022-06-28"
+                }
+            ]
+        }
+    ]
+}

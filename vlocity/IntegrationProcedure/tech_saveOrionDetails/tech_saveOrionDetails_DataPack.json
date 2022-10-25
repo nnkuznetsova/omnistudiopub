@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "tech_saveOrionDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Tech Save Orion Details",
+    "OmniProcessElement": "tech_saveOrionDetails_Element_DRSaveOrionDetails.json",
+    "OmniProcessKey": "tech_saveOrionDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "tech_saveOrionDetails_PropertySetConfig.json",
+    "SubType": "saveOrionDetails",
+    "Type": "tech",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/tech/saveOrionDetails/Procedure",
+    "WebComponentKey": "f00bd747-bd4b-b512-fafe-87c1d691c8fc"
+}

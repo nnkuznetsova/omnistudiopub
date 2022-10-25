@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "team_getAccountContactDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Get Account Contact",
+    "OmniProcessElement": [
+        "team_getAccountContactDetails_Element_DRGetAccountContactDetails.json",
+        "team_getAccountContactDetails_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "team_getAccountContactDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_getAccountContactDetails_PropertySetConfig.json",
+    "SubType": "getAccountContactDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/getAccountContactDetails/Procedure",
+    "WebComponentKey": "95d9fa90-0470-3500-608c-68ab7a1b6def"
+}

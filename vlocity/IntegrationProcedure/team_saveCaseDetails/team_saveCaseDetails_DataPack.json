@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "team_saveCaseDetails_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Save Case Details",
+    "OmniProcessElement": "team_saveCaseDetails_Element_DRSaveCaseDetails.json",
+    "OmniProcessKey": "team_saveCaseDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_saveCaseDetails_PropertySetConfig.json",
+    "SubType": "saveCaseDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/saveCaseDetails/Procedure",
+    "WebComponentKey": "91054d41-c4de-3edc-f4c4-ccf78c28be28"
+}

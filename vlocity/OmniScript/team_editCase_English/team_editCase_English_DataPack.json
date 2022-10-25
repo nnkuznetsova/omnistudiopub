@@ -1,0 +1,29 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "Team Edit Case",
+    "OmniProcessElement": [
+        "team_editCase_English_Element_IPGetCaseDetails.json",
+        "team_editCase_English_Element_StepCase.json",
+        "team_editCase_English_Element_CaseNumber.json",
+        "team_editCase_English_Element_Subject.json",
+        "team_editCase_English_Element_LineBreak1.json",
+        "team_editCase_English_Element_CreatedDate.json",
+        "team_editCase_English_Element_Status.json",
+        "team_editCase_English_Element_IPSaveCaseDetails.json",
+        "team_editCase_English_Element_NavigateAction1.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "team_editCase_English_PropertySetConfig.json",
+    "SubType": "editCase",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/editCase/English",
+    "WebComponentKey": "efdab1f6-a21f-100f-ea14-bf3722dba640"
+}

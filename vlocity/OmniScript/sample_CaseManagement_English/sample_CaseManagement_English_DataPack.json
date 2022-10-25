@@ -1,0 +1,28 @@
+{
+    "Description": "OmniStudio and Custom LWC trail",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "Sample Case Management",
+    "OmniProcessElement": [
+        "sample_CaseManagement_English_Element_SelectAccountAndCase.json",
+        "sample_CaseManagement_English_Element_SelectAccount.json",
+        "sample_CaseManagement_English_Element_caseSelectableItem.json",
+        "sample_CaseManagement_English_Element_ManageCaseComments.json",
+        "sample_CaseManagement_English_Element_CaseComments.json",
+        "sample_CaseManagement_English_Element_CreateCaseComment.json",
+        "sample_CaseManagement_English_Element_caseCommentManagement.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "sample_CaseManagement_English_PropertySetConfig.json",
+    "SubType": "CaseManagement",
+    "Type": "sample",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/sample/CaseManagement/English",
+    "WebComponentKey": "c64ba0a1-f651-5c9d-5529-e906e611484a"
+}

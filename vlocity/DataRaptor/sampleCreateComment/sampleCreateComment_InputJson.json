@@ -1,0 +1,22 @@
+{
+    "ContextId": null,
+    "ManageCaseComments": {
+        "CaseComments": null,
+        "CustomLWC1": null
+    },
+    "SelectAccountAndCase": {
+        "SelectAccount": null,
+        "caseSelectableItem": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "ManageCaseComments": null,
+        "SelectAccountAndCase": null
+    }
+}

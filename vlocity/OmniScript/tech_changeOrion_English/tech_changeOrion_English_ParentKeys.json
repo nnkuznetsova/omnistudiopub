@@ -1,0 +1,5 @@
+[
+    "DataRaptor/techChangeOrionTA",
+    "IntegrationProcedure/tech_getOrionContactDetails",
+    "IntegrationProcedure/tech_saveOrionDetails"
+]

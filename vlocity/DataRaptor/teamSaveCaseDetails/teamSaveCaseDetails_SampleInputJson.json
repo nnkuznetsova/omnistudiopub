@@ -1,0 +1,20 @@
+{
+    "ContextId": "5005c000018DbOIAA0",
+    "Id": "5005c000018DbOIAA0",
+    "StepCase": {
+        "CaseNumber": "00001026",
+        "CreatedDate": "2022-05-10",
+        "Status": "New",
+        "Subject": "Cannot track our order"
+    },
+    "timeStamp": "2022-05-23T21:07:52.187Z",
+    "userCurrencyCode": "USD",
+    "userId": "0055c000009BsvpAAC",
+    "userName": "admin@oms10413.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-420",
+    "vlcTimeTracking": {
+        "IPGetCaseDetails": 163,
+        "OmniScriptSessionToken": "abac86e4-4735-40d1-9448-eeec775f30c8"
+    }
+}

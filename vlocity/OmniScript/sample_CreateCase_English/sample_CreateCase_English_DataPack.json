@@ -1,0 +1,25 @@
+{
+    "Description": "OmniStudio and Custom LWC trail",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "CreateCase",
+    "OmniProcessElement": [
+        "sample_CreateCase_English_Element_Case.json",
+        "sample_CreateCase_English_Element_Subject.json",
+        "sample_CreateCase_English_Element_Description.json",
+        "sample_CreateCase_English_Element_CreateCase.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "sample_CreateCase_English_PropertySetConfig.json",
+    "SubType": "CreateCase",
+    "Type": "sample",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/sample/CreateCase/English",
+    "WebComponentKey": "4754c636-48c6-23d2-24df-b4c227488767"
+}

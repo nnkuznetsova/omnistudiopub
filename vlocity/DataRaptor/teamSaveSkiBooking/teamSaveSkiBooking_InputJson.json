@@ -1,0 +1,22 @@
+{
+    "output": [
+        {
+            "aggregationResults": {
+                "TotalCost": 127.78
+            },
+            "calculationResults": [
+                {
+                    "BootSize": "7",
+                    "Days": 4,
+                    "Days1": 1,
+                    "Height": "4'0\" < H < 4'4\"",
+                    "Helmet": false,
+                    "ID": "input",
+                    "RentalCost": 127.78,
+                    "SkierType": "Intermediate",
+                    "StartDate": "2022-06-25"
+                }
+            ]
+        }
+    ]
+}

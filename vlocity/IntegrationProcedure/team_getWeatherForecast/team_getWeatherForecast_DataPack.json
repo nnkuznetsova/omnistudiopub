@@ -1,0 +1,28 @@
+{
+    "CustomJavaScript": "team_getWeatherForecast_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Get Weather and Forecast Data",
+    "OmniProcessElement": [
+        "team_getWeatherForecast_Element_DRGetAccountInfo.json",
+        "team_getWeatherForecast_Element_SVWeather.json",
+        "team_getWeatherForecast_Element_HTTPGetCurrentWeather.json",
+        "team_getWeatherForecast_Element_HTTPGetForecastWeather.json",
+        "team_getWeatherForecast_Element_DRXformWeather.json",
+        "team_getWeatherForecast_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "team_getWeatherForecast",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_getWeatherForecast_PropertySetConfig.json",
+    "SubType": "getWeatherForecast",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/getWeatherForecast/Procedure",
+    "WebComponentKey": "e25881c5-b52a-d243-035b-74b925ebba75"
+}

@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "team_createSkiBooking_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Create Ski Booking",
+    "OmniProcessElement": [
+        "team_createSkiBooking_Element_DRSaveSkiBooking.json",
+        "team_createSkiBooking_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "team_createSkiBooking",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_createSkiBooking_PropertySetConfig.json",
+    "SubType": "createSkiBooking",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/createSkiBooking/Procedure",
+    "WebComponentKey": "d7d6d429-dcda-c62b-2d88-7ea4e349d5ee"
+}

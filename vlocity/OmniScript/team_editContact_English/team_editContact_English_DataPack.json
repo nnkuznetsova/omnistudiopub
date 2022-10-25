@@ -1,0 +1,29 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "Team Edit Contact",
+    "OmniProcessElement": [
+        "team_editContact_English_Element_IPGetContactDetails.json",
+        "team_editContact_English_Element_StepContact.json",
+        "team_editContact_English_Element_FirstName.json",
+        "team_editContact_English_Element_LastName.json",
+        "team_editContact_English_Element_LineBreak1.json",
+        "team_editContact_English_Element_Email.json",
+        "team_editContact_English_Element_Phone.json",
+        "team_editContact_English_Element_IPSaveContactDetails.json",
+        "team_editContact_English_Element_NavigateAction1.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "team_editContact_English_PropertySetConfig.json",
+    "SubType": "editContact",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/editContact/English",
+    "WebComponentKey": "6327211a-e7f6-6ef1-e86a-1c9a52bd463b"
+}

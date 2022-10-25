@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Team Save Account Details",
+    "OmniProcessElement": "team_saveAccountDetails_Element_DRSaveAccountDetails.json",
+    "OmniProcessKey": "team_saveAccountDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_saveAccountDetails_PropertySetConfig.json",
+    "SubType": "saveAccountDetails",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/saveAccountDetails/Procedure",
+    "WebComponentKey": "58c65e30-2897-86e7-3fb3-842405ae1cfc"
+}

@@ -1,0 +1,17 @@
+{
+    "SkiBooking": {
+        "Id": "a6u8d0000000F7EAAU",
+        "Name": "Josie Smith",
+        "StartDate": "22/12/2021",
+        "TotalCost": "$485.60"
+    },
+    "SkiRental": {
+        "BootSize": 10,
+        "Cost": "$217.80",
+        "Days": 5,
+        "Height": "5'0\" < H < 5'4\"",
+        "Helmet": false,
+        "Number": "Rental-0043",
+        "Type": "Expert"
+    }
+}

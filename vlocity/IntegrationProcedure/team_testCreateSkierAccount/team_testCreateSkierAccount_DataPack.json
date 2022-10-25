@@ -1,0 +1,25 @@
+{
+    "CustomJavaScript": "team_testCreateSkierAccount_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "testCreateSkierAccount",
+    "OmniProcessElement": [
+        "team_testCreateSkierAccount_Element_DRGetSkierRecordType.json",
+        "team_testCreateSkierAccount_Element_DRSaveSkierDetails.json",
+        "team_testCreateSkierAccount_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "team_testCreateSkierAccount",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "team_testCreateSkierAccount_PropertySetConfig.json",
+    "SubType": "testCreateSkierAccount",
+    "Type": "team",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/team/testCreateSkierAccount/Procedure",
+    "WebComponentKey": "b003a7ee-672a-a9e3-2f99-eb249f6b0146"
+}
