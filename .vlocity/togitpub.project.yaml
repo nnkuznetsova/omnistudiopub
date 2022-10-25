@@ -110,6 +110,14 @@ VlocityDataPackKeys:
     - OmniScript/team_updateAccountPrimaryContact_English
     - OmniScript/tech_changeOrion_English
     - OmniScript/trailhead_CreateCase_English
+    - lwc/cfSampleWeather
+    - lwc/cfTeamGetSkiRentals_2_Natalia
+    - lwc/cfTeamWeather
+    - lwc/cfTrailheadSelectCases
+    - lwc/editAccountCases
+    - lwc/sampleCaseManagementEnglish
+    - lwc/selectAccountCases
+    - lwc/trailheadCreateCaseEnglish
     - VlocityCard/customGetAllAccounts
     - VlocityCard/sampleCaseCommentDataTable
     - VlocityCard/sampleCases
@@ -158,7 +166,6 @@ VlocityDataPackKeys:
     - lwc/cfSampleContactsParent_1_Salesforce
     - lwc/cfSampleSelectableItem
     - lwc/cfSampleSelectableItem_1_Training
-    - lwc/cfSampleWeather
     - lwc/cfSampleWeather_1_Salesforce
     - lwc/cfSampleWeatherForecast
     - lwc/cfSampleWeatherForecast_1_Salesforce
@@ -182,7 +189,6 @@ VlocityDataPackKeys:
     - lwc/cfTeamGetSkiRentalParent_2_Natalia
     - lwc/cfTeamGetSkiRentals
     - lwc/cfTeamGetSkiRentals_1_Natalia
-    - lwc/cfTeamGetSkiRentals_2_Natalia
     - lwc/cfTeamStarterCases_1_Salesforce
     - lwc/cfTeamStarterContacts_1_Salesforce
     - lwc/cfTeamStarterWeather_1_Salesforce
@@ -192,7 +198,6 @@ VlocityDataPackKeys:
     - lwc/cfTeamTestGetSkiRentals
     - lwc/cfTeamTestGetSkiRentals_1_Natalia
     - lwc/cfTeamTestGetSkiRentals_2_Natalia
-    - lwc/cfTeamWeather
     - lwc/cfTeamWeather_1_Salesforce
     - lwc/cfTeamWeather_2_Salesforce
     - lwc/cfTeamWeatherForecast
@@ -208,19 +213,15 @@ VlocityDataPackKeys:
     - lwc/cfTest_1_Salesforce
     - lwc/cfTestCard1_1_Salesforce
     - lwc/cfTestCard_1_Salesforce
-    - lwc/cfTrailheadSelectCases
     - lwc/cfTrailheadSelectCases_1_Salesforce
     - lwc/customEditAccountEnglish
     - lwc/customGetAllCasesEnglish
     - lwc/docGenerationSampleFndSingleDocxLwcEnglish
     - lwc/docGenerationSampleFndSingleDocxServersideLwcEnglish
-    - lwc/editAccountCases
     - lwc/editCases
     - lwc/reusableSampleEnglish
-    - lwc/sampleCaseManagementEnglish
     - lwc/sampleCreateCaseEnglish
     - lwc/sampleUpdateAccountPrimaryContactEnglish
-    - lwc/selectAccountCases
     - lwc/selectCases
     - lwc/teamCreateSkierEnglish
     - lwc/teamEditAccountEnglish
@@ -232,7 +233,6 @@ VlocityDataPackKeys:
     - lwc/teamUpdateAccountPrimaryContactEnglish
     - lwc/techChangeOrionEnglish
     - lwc/trailheadCaseManagementEnglish
-    - lwc/trailheadCreateCaseEnglish
 VlocityTypesToFetch:
     - DataRaptor
     - IntegrationProcedure
