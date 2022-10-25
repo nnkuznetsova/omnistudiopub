@@ -1,0 +1,81 @@
+<template> 
+   <!-- For each selected case, capture input for the required fields -->
+   
+        <template for:each={selectedCases} for:item="oneCase"> 
+           
+                <div key={oneCase.CaseId} class="slds-m-top_medium slds-m-bottom_x-large" style="background-color:aliceblue;padding:25px;">
+                    <lightning-input  type="text" label="Case Number" value={oneCase.CaseNumber} disabled></lightning-input>
+                     <lightning-input 
+                       
+                        data-one-case={oneCase.CaseId} 
+                        type="text" 
+                        label="Case Subject" 
+                        value={oneCase.CaseSubject} 
+                        onchange={handleSubjectChange}>
+                    </lightning-input> 
+                     <lightning-combobox 
+                        name="priority" 
+                        label="Case Priority"
+                        value={oneCase.CasePriority} 
+                        options={priorityOptions} 
+                        data-one-case={oneCase.CaseId} 
+                        onchange={handlePriorityChange} >
+                    </lightning-combobox> 
+                    <lightning-combobox 
+                        name="status" 
+                        label="Case Status" 
+                        value={oneCase.CaseStatus} 
+                        options={statusOptions} 
+                        data-one-case={oneCase.CaseId} 
+                        onchange={handleStatusChange} >
+                    </lightning-combobox> 
+                </div> 
+         
+        </template> 
+    
+</template>
+<!-- <template>
+        <template for:each={selectedCases} for:item="onecase">
+         For each selected case, capture input for the required fields
+                <div key={onecase.CaseId} class="slds-m-top_medium slds-m-bottom_x-large">
+                    <lightning-input type="text" value={onecase.CaseNumber} label="Case Number" disabled></lightning-input>
+                    <lightning-combobox  id={onecase.CaseId} name="priority" value={onecase.CasePriority} label="Case Priority" onchange={handlePriorityChange}
+                        options={priorityOptions}>
+                    </lightning-combobox>
+                    <lightning-combobox id={onecase.CaseId} name="status" value={onecase.CaseStatus} label="Case Status" onchange={handleStatusChange}
+                        options={statusOptions}>
+                    </lightning-combobox>
+                    
+                    <lightning-input 
+                        key={onecase.CaseId} 
+                        data-one-case={onecase.CaseId} 
+                        type="text" 
+                        value={onecase.CaseSubject} 
+                        label="Case Subject" 
+                        onchange={handleSubjectChange}>
+                    </lightning-input>                   
+                    
+                </div>
+            </template>
+</template>  
+-->
+    
+    <html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"><head>
+    <!--[if gte mso 9]><xml>
+    <mso:CustomDocumentProperties>
+    <mso:xd_Signature msdt:dt="string"></mso:xd_Signature>
+    <mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor msdt:dt="string">Jack Hilburn</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor>
+    <mso:Order msdt:dt="string">11600.0000000000</mso:Order>
+    <mso:ComplianceAssetId msdt:dt="string"></mso:ComplianceAssetId>
+    <mso:TemplateUrl msdt:dt="string"></mso:TemplateUrl>
+    <mso:xd_ProgID msdt:dt="string"></mso:xd_ProgID>
+    <mso:_ExtendedDescription msdt:dt="string"></mso:_ExtendedDescription>
+    <mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author msdt:dt="string">Jack Hilburn</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author>
+    <mso:TriggerFlowInfo msdt:dt="string"></mso:TriggerFlowInfo>
+    <mso:ContentTypeId msdt:dt="string">0x010100BA72E92301FB494484CE73F64BF99364</mso:ContentTypeId>
+    <mso:_SourceUrl msdt:dt="string"></mso:_SourceUrl>
+    <mso:_SharedFileIndex msdt:dt="string"></mso:_SharedFileIndex>
+    <mso:MediaLengthInSeconds msdt:dt="string"></mso:MediaLengthInSeconds>
+    </mso:CustomDocumentProperties>
+    </xml><![endif]-->
+   </head>
